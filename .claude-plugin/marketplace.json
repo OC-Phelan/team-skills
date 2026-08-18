@@ -8,6 +8,11 @@
       "name": "example-plugin",
       "source": "./plugins/example-plugin",
       "description": "Vorlage-Plugin mit einem Beispiel-Skill als Ausgangspunkt für neue Skills."
+    },
+    {
+      "name": "session-abschluss",
+      "source": "./plugins/session-abschluss",
+      "description": "Skill zum sauberen Abschließen einer Claude-Code-Session inkl. Sicherung von Änderungen und Session-Status in docs/session_changes.md."
     }
   ]
 }

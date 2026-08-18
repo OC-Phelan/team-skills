@@ -1,0 +1,8 @@
+{
+  "name": "session-abschluss",
+  "description": "Skill zum sauberen Abschließen einer Claude-Code-Session inkl. Sicherung von Änderungen und Session-Status in docs/session_changes.md.",
+  "version": "1.0.0",
+  "author": {
+    "name": "OC-Phelan"
+  }
+}
