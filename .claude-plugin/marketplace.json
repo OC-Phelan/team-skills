@@ -1,0 +1,13 @@
+{
+  "name": "team-skills",
+  "owner": {
+    "name": "OC-Phelan"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "Vorlage-Plugin mit einem Beispiel-Skill als Ausgangspunkt für neue Skills."
+    }
+  ]
+}
